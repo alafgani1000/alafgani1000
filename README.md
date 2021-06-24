@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alafgani
+- 👋 Hi, I’m al afghani
 - 👀 I’m interested in programming, design and writing
 - 🌱 I’m currently learning programming and writing for bloging
 - 💞️ I’m looking to collaborate on open source project
