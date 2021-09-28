@@ -1,6 +1,6 @@
 - 👋 Hi, I’m al afghani
 - 👀 I’m interested in programming, design and writing
-- 🌱 I’m currently learning programming and writing for bloging
+- 🌱 I’m currently learning programming and bloging
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me ...
 
