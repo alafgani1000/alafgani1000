@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, design and writing
 - 🌱 I’m currently learning programming and bloging
 - 💞️ I’m looking to collaborate on open source project
-- 📫 alafganigani@gmail.com or info@selaicoding.com
+- 📫 alafganigani@gmail.com
 
 <!---
 alafgani1000/alafgani1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
