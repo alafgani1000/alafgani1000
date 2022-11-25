@@ -1,5 +1,5 @@
 - 👋 Hi, I’m al afghani
-- 👀 I’m interested in programming, design and writing
+- 👀 I’m interested in programming,and bloging
 - 🌱 I’m currently learning programming and bloging
 - 💞️ I’m looking to collaborate on open source project
 - 📫 alafganigani@gmail.com
