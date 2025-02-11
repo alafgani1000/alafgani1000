@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 <!-- ## 📈 GitHub Stats
 
 ![Al Afgani's GitHub stats](https://github-readme-stats.vercel.app/api?username=alafgani1000&show_icons=true&theme=radical)
-
-## 📫 How to reach me -->
+ -->
+## 📫 How to reach me
 
 - **Email:** selaicode101.com
 
