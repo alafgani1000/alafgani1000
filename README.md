@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
  -->
 ## 📫 How to reach me
 
-- **Email:** selaicode101.com
+- **Email:** selaicode101@gmail.com
 
 ## 🌱 Currently Learning
 
